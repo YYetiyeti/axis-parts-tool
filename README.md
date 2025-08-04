@@ -1,3 +1,3 @@
 # Axis Parts Tool
 
-Simple React-based parts selector for Axis camera kits.
+Select cameras and mounts, then export required parts to Excel.
